@@ -1,0 +1,1 @@
+Pon una conexion nueva en app.config y crea un uasuario en la BD
