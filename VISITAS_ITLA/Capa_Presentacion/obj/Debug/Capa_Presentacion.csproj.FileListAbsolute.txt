@@ -1,0 +1,70 @@
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.dll
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.pdb
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroUsuario.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroVisitas.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisitas.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmModificarEdificioAulas.resources
+C:\Users\PC\Documents\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisita_General_.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.dll
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.pdb
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisita_General_.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisitas.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmModificarEdificioAulas.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroUsuario.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroVisitas_General_.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroVisitas.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.dll
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.dll
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Entidad.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Negocios.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisita_General_.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmConsultarVisitas.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmModificarEdificioAulas.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroUsuario.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroVisitas_General_.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmRegistroVisitas.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
