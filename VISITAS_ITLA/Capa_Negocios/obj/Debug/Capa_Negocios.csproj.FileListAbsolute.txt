@@ -20,3 +20,14 @@ D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_N
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.dll
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.pdb
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Datos.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Entidad.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Datos.pdb
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\bin\Debug\Capa_Entidad.pdb
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Negocios\obj\Debug\Capa_Negocios.pdb

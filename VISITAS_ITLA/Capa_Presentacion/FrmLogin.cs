@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Capa_Negocios;
 using Capa_Entidad;
+using System.Security.Cryptography;
 
 namespace Capa_Presentacion
 {
@@ -31,9 +32,14 @@ namespace Capa_Presentacion
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             try
-            {
+            {                
+                HashAlgorithm Hasher = SHA256.Create();
+
+                byte[] SourceBytes = Encoding.UTF8.GetBytes(txtContraseña.Text.ToString().ToUpper());
+                byte[] HashBytes = Hasher.ComputeHash(SourceBytes);
+
                 EntidadUsuario.NombreUsuario = txtUsuario.Text.ToString();
-                EntidadUsuario.Contraseña = txtContraseña.Text.ToString();
+                EntidadUsuario.Contraseña = Convert.ToBase64String(HashBytes)/*txtContraseña.Text.ToString()*/;
                 string tipo = NegocioUsuario.ValidandoUsuario(EntidadUsuario);
                 if (tipo is null)
                 {

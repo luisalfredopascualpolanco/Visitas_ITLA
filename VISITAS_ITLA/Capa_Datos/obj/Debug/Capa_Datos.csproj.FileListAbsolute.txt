@@ -16,3 +16,12 @@ D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_D
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.dll
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.pdb
 D:\Programas\Luis Alfredo\Luis\Programacion 2\Proyecto Final\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Programas\Cursos\C# ya\Visitas_ITLA\VISITAS_ITLA\Capa_Datos\obj\Debug\Capa_Datos.pdb

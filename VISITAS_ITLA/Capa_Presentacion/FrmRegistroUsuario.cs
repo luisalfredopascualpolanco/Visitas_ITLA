@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Capa_Negocios;
 using Capa_Entidad;
+using System.Security.Cryptography;
 
 namespace Capa_Presentacion
 {
@@ -66,12 +67,16 @@ namespace Capa_Presentacion
                 }
                 else 
                 {
+                    HashAlgorithm Hasher = SHA256.Create();
+
+                    byte[] SourceBytes = Encoding.UTF8.GetBytes(txtContraseña.Text.ToString().ToUpper());
+                    byte[] HashBytes = Hasher.ComputeHash(SourceBytes);
                     objEusuario.Nombres = txtNombres.Text.ToString().ToUpper();
                     objEusuario.Apellidos = txtApellidos.Text.ToString().ToUpper();
                     objEusuario.FechaNacimiento = dtpFechaNacimiento.Value;
                     objEusuario.TipoUsuario = cmbTipoDeUsuario.Text.ToString().ToUpper();
                     objEusuario.NombreUsuario = txtNombreDeUsuario.Text.ToString().ToUpper();
-                    objEusuario.Contraseña = txtContraseña.Text.ToString().ToUpper();
+                    objEusuario.Contraseña = Convert.ToBase64String(HashBytes)/*txtContraseña.Text.ToString().ToUpper()*/;
                     objNusuario.InsertandoUsuario(objEusuario);
                     MessageBox.Show("Usuario Agregado");
                     txtNombres.Text = "";
