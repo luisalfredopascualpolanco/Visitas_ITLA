@@ -71,5 +71,10 @@ namespace Capa_Presentacion
         {
 
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
